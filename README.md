@@ -13,7 +13,7 @@
 [Bank](classification/Bank/Bank.ipynb)
 
 ## Project 5
-[Churn-Prediction](classification/Churn-Prediction/Churn-prediction.ipynb)
+[Churn-Prediction](classification/Churn-Prediction/Churn-Prediction.ipynb)
 
 
 # Regression
