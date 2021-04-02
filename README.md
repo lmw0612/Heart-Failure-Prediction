@@ -1,3 +1,6 @@
+# Master Thesis
+[German Credit Scoring Model](thesis/master_thesis.ipynb)
+
 # Classification
 
 ## Project 1
