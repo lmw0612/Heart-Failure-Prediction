@@ -7,4 +7,3 @@
 [Academic Performance](Students-Academic-Performance/academic_performance.ipynb)
 
 ## Project 3
-[]
