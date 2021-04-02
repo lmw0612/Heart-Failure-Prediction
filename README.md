@@ -22,7 +22,7 @@
 [NYC Traffic Demand Forecasting](regression/NYC-Traffic-Demand-Forecasting/nyc_traffic.ipynb)
 
 ## Project 2
-[NYC Airbnb](regression/NYC Airbnb/Airbnb.ipynb)
+[NYC Airbnb](regression/NYC-Airbnb/Airbnb.ipynb)
 
 
 # Clustering
