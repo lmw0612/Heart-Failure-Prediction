@@ -1,5 +1,6 @@
 # Master Thesis
 [German Credit Scoring Model](thesis/master_thesis.ipynb)
+[Thesis PDF](thesis/LEE-MINWOO-i6127619-IB.IMBI-THESIS.pdf)
 
 # Classification
 
