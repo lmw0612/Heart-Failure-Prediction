@@ -4,4 +4,4 @@
 [Heart Failure Prediction](Heart-Failure-Prediction/heart_failure_analysis.ipynb)
 
 ## Project 2
-[Student's Academic Performance](Students' Academic Performance /academic_performance.ipynb)
+[Student's Academic Performance](Students' Academic Performance/academic_performance.ipynb)
